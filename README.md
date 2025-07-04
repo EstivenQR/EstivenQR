@@ -32,7 +32,7 @@
 </a>	  
 &emsp;
 <a href="https://dotnet.microsoft.com/" target="_blank">
-  <img alt=".NET" src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white">
+  <img src="https://img.shields.io/badge/.NET-%23512BD4.svg?style=plastic&logo=dotnet&logoColor=white">
 </a>
   &emsp;
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> 
