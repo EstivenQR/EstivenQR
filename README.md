@@ -81,7 +81,7 @@
  <a href="https://www.oracle.com/database/" target="_blank">
   <img alt="Oracle" src="https://img.shields.io/badge/Oracle-%23F80000.svg?style=plastic&logo=oracle&logoColor=white"/></a>
 &emsp;
-<a href="https://www.mongodb.com/" target="_blank">
+	<a href="https://www.mongodb.com/" target="_blank">
   <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white"/>
 </a>
 
@@ -93,8 +93,8 @@
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
-	  &emsp;
+    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white"/></a>
+&emsp;
 <a href="https://visualstudio.microsoft.com/" target="_blank">
   <img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%235C2D91.svg?style=plastic&logo=visual-studio&logoColor=white" />
 </a>
