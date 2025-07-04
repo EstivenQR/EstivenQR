@@ -8,7 +8,7 @@
 
 ### 👨🏻‍💻 &nbsp;About Me
 <br><br>
-🎓 &nbsp;I am currently in my final year pursuing a degree in Computer Systems Engineering at Universidad Fidélitas.
+- 🎓&nbsp;I am currently in my final year pursuing a degree in Computer Systems Engineering at Universidad Fidélitas.
 - :trophy: 2x `ACPC` Finalist.
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `Codeforces`, `Atcoder`, `Leetcode`, `Codechef`, `Google Contests`.
