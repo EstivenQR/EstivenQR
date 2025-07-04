@@ -10,7 +10,7 @@
 <br><br>
 - 🎓&nbsp;I'm currently in my final year pursuing a degree in Computer Systems Engineering at Universidad Fidélitas.
 - :technologist: I love using Software as a solution for every `Problem`.
-- :student: I’m currently learning `Computer Science` and `Software Engineering`.
+- ✍️ I'm passionate about continuously learning new technologies, tools, and programming languages.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
 <br>
 
