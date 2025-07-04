@@ -119,9 +119,12 @@
 
 ---
 
-<p align = "center">
-	<a "The only way to achieve the impossible is to believe it is possible.">
+<p align="center">
+  <a href="https://github.com/piyushsuthar/github-readme-quotes">
+    <img alt="Inspirational Quote" src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight&animation=grow_out_in&quoteCategory=inspirational" />
+  </a>
 </p>
+
 
 ## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
 
