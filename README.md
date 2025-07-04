@@ -16,7 +16,7 @@
 - 🎓&nbsp;I'm currently in my final year pursuing a degree in Computer Systems Engineering at Universidad Fidélitas.
 - :technologist: I love using Software as a solution for every `Problem`.
 - ✍️ I'm passionate about continuously learning new technologies, tools, and programming languages.
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Ahmed_Hossam_Resume).
+- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact with me
