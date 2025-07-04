@@ -28,7 +28,7 @@
 <p align="center"> 
 &emsp; 
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-  <img alt="C#" src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=plastic&logo=c-sharp&logoColor=white">
 </a>	  
 &emsp;
 <a href="https://dotnet.microsoft.com/" target="_blank">
