@@ -195,10 +195,5 @@
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/EstivenQR/EstivenQR/output/github-contribution-grid-snake.svg" alt="Snake Game"/>
-</p>
-
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
