@@ -177,13 +177,6 @@
 
 ----
 	
-  <p align="center">
-	<a href="https://github.com/EstivenQR/Proyecto-Cafeteria.git">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=7oSkaaa&repo=LeetCode_DailyChallenge_2023&theme=tokyonight" alt="GitHub Stats" />
-    	</a>
-  </p>
-
-
 [![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 </details>
