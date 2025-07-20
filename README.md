@@ -189,12 +189,13 @@
 </details>
 	
 <details><summary><h3> :open_file_folder: My Repositories </h3></summary>
-
+<div>
 <p align="center">
 	<h3>☕Cafetería MichiPan😺</h3>
   <a href="https://github.com/EstivenQR/Proyecto-Cafeteria.git">
   </a>
 </p>
+</div>
 
 ----
 	
