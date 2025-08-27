@@ -185,23 +185,19 @@
 <div>
   <p align="center">
     <a href="https://github.com/EstivenQR/Proyecto-Cafeteria.git">
-		<h4>Proyecto Cafeteria</h4>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-Cafeteria&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	<a href="https://github.com/EstivenQR/Proyecto-Veterinaria-Java.git">
-		<h4>Proyecto Veterinaria</h4>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-Veterinaria-Java&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	<a href=" https://github.com/EstivenQR/Pokemon-Game-Java.git">
-		<h4>Proyecto Juego Pokemon</h4>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Pokemon-Game-Java&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	<a href="https://github.com/EstivenQR/Proyecto-ProgramacionAvanzadaWeb.git">
-		<h4>Proyecto Libreria</h4>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-ProgramacionAvanzadaWeb&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	  	<a href="https://github.com/maricruzlc/Proyecto-PrograAvanzada.git">
-		<h4>Proyecto Sala de Reuniones</h4>
+			**Proyecto Sala de Reuniones**
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maricruzlc&repo=Proyecto-PrograAvanzada&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
