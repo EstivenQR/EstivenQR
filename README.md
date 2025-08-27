@@ -196,10 +196,8 @@
 	<a href="https://github.com/EstivenQR/Proyecto-ProgramacionAvanzadaWeb.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-ProgramacionAvanzadaWeb&theme=tokyonight" alt="GitHub Stats" />
     </a>
-	  	<a href="https://github.com/maricruzlc/Proyecto-PrograAvanzada.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maricruzlc&repo=Proyecto-PrograAvanzada&theme=tokyonight" alt="GitHub Stats" />
-		<br>
-      _Proyecto colaborativo para un curso de programación avanzada_
+	  	<a href="https://github.com/EstivenQR/Proyecto_SalaDeReuniones.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto_SalaDeReuniones&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
