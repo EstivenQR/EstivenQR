@@ -197,7 +197,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-ProgramacionAvanzadaWeb&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	  	<a href="https://github.com/maricruzlc/Proyecto-PrograAvanzada.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-PrograAvanzada&theme=tokyonight" alt="GitHub Stats" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=maricruzlc&repo=Proyecto-PrograAvanzada&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
 </div>
