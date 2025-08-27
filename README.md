@@ -200,8 +200,6 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-PrograAvanzada&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
-
- https://github.com/maricruzlc/Proyecto-PrograAvanzada.git
 </div>
 
 
