@@ -187,6 +187,10 @@
     <a href="https://github.com/EstivenQR/Proyecto-Cafeteria.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-Cafeteria&theme=tokyonight" alt="GitHub Stats" />
     </a>
+	<a href="https://github.com/EstivenQR/Proyecto-Veterinaria-Java.git">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-Veterinaria-Java&theme=tokyonight" alt="GitHub Stats" />
+    </a>
+	  
   </p>
 </div>
 
