@@ -197,7 +197,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto-ProgramacionAvanzadaWeb&theme=tokyonight" alt="GitHub Stats" />
     </a>
 	  	<a href="https://github.com/maricruzlc/Proyecto-PrograAvanzada.git">
-			Proyecto Saal de Reuniones
+		<h4>Proyecto Sala de Reuniones</h4>
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=maricruzlc&repo=Proyecto-PrograAvanzada&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
