@@ -188,8 +188,6 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPaRojas22&repo=AnalisisYModeladoGrupo2&theme=tokyonight" alt="GitHub Stats" />
     </a>
   </p>
-
-https://github.com/JuanPaRojas22/AnalisisYModeladoGrupo2.git
  
 </div>
 
