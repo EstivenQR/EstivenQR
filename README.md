@@ -130,7 +130,7 @@
 
 
 
-## <picture> <img src = "https://github.com/EstivenQR/EstivenQR/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+## 📖 Github Stats
 
 <details><summary><h3> 🔥 Streak Stats</h3></summary>
 
