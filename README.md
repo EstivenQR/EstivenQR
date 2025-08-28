@@ -184,9 +184,7 @@
 	<a href="https://github.com/EstivenQR/Proyecto_CarteleraPeliculas.git">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=EstivenQR&repo=Proyecto_CarteleraPeliculas&theme=tokyonight" alt="GitHub Stats" />
     </a>
-	<a href="https://github.com/JuanPaRojas22/AnalisisYModeladoGrupo2.git">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=JuanPaRojas22&repo=AnalisisYModeladoGrupo2&theme=tokyonight" alt="GitHub Stats" />
-    </a>
+
   </p>
  
 </div>
