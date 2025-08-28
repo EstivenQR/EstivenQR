@@ -157,16 +157,6 @@
 <details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
 
 ----
-
-[![EstivenQR's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EstivenQR&theme=github)](https://github.com/EstivenQR/github-readme-activity-graph)
-
- 
-</details>
-
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
 	
 [![EstivenQR github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=EstivenQR&theme=github	)](https://github.com/EstivenQR/github-readme-activity-graph)
 
