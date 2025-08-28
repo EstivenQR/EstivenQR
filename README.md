@@ -181,7 +181,7 @@
 	
 </details>
 	
-<details><summary><h3> :open_file_folder: My Repositories </h3></summary>
+<summary><h3> :open_file_folder: My Repositories </h3></summary>
 <div>
   <p align="center">
     <a href="https://github.com/EstivenQR/Proyecto-Cafeteria.git">
