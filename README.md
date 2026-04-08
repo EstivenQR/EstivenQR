@@ -17,6 +17,7 @@
 - :technologist: I love using Software as a solution for every `Problem`.
 - ✍️ I'm passionate about continuously learning new technologies, tools, and programming languages.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME]().
+- 💼 I’m currently open for a new `job opportunity`, this is my Portafolio https://estivenqr.vercel.app/.
 <br>
 
 ## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture> Contact with me
